@@ -4,7 +4,7 @@
 
 **A simple program to mute system sounds written in php 7.4.**
 
->The program for operation downloads and uses the Nirsoft [SoundVolumeView](https://www.nirsoft.net/utils/sound_volume_view.html) softwarea and a modified [php-shellcommand](https://github.com/mikehaertl/php-shellcommand) library.
+>The program for operation downloads and uses the Nirsoft [SoundVolumeView](https://www.nirsoft.net/utils/sound_volume_view.html) software and a modified [php-shellcommand](https://github.com/mikehaertl/php-shellcommand) library.
 
 ## Built With
 
