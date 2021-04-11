@@ -1,8 +1,6 @@
 # SoundMute
 
-<a href="https://github.com/manythingsatonce/SoundMute/releases"><img alt="release" src="https://img.shields.io/github/v/release/manythingsatonce/SoundMute?include_prereleases"></a>
-<a href="https://github.com/manythingsatonce/SoundMute/blob/master/LICENSE"><img alt="license" src="https://img.shields.io/github/license/manythingsatonce/SoundMute"></a>  
-<a href="https://github.com/manythingsatonce/SoundMute/issues"><img src="https://img.shields.io/github/issues/manythingsatonce/SoundMute"></a>
+<a href="https://github.com/manythingsatonce/SoundMute/releases"><img alt="release" src="https://img.shields.io/github/v/release/manythingsatonce/SoundMute?include_prereleases"></a> <a href="https://github.com/manythingsatonce/SoundMute/blob/master/LICENSE"><img alt="license" src="https://img.shields.io/github/license/manythingsatonce/SoundMute"></a> <a href="https://github.com/manythingsatonce/SoundMute/issues"><img src="https://img.shields.io/github/issues/manythingsatonce/SoundMute"></a>
 
 **A simple program to mute system sounds written in php 7.4.**
 
