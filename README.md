@@ -1,6 +1,8 @@
 # SoundMute
 
-![license](https://img.shields.io/github/license/manythingsatonce/SoundMute) ![issues](https://img.shields.io/github/issues/manythingsatonce/SoundMute)
+<a href="https://github.com/manythingsatonce/SoundMute/releases"><img alt="release" src="https://img.shields.io/github/v/release/manythingsatonce/SoundMute?include_prereleases"></a>
+<a href="https://github.com/manythingsatonce/SoundMute/blob/master/LICENSE"><img alt="license" src="https://img.shields.io/github/license/manythingsatonce/SoundMute"></a>  
+<a href="https://github.com/manythingsatonce/SoundMute/issues"><img src="https://img.shields.io/github/issues/manythingsatonce/SoundMute"></a>
 
 **A simple program to mute system sounds written in php 7.4.**
 
@@ -31,8 +33,14 @@ To get a local copy up and running follow these simple steps.
 3. Compile PHP code.
 
    ```sh
-   dotnet run
+   dotnet publish -c Release -r win-x64 -o app
    ```
+   
+4. *To start work
+
+   ```sh
+   dotnet run
+	```
 
 ## How to get in touch?
 
